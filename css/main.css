@@ -43,7 +43,6 @@ h2 {
 }
 
 .test {
-  font-family: 1.5rem;
   font-weight: bold;
 }
 
@@ -68,7 +67,7 @@ img {
 }
 
 .lowergreek {
-  list-style-tye: lower-greek;
+  list-style-type: lower-greek;
 }
 
 .bullets {
