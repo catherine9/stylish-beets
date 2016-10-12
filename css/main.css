@@ -1,11 +1,11 @@
 html {
   background-color: #c9b5ab;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   line-height: normal;
 }
 
 body {
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
 }
 
 nav ol li {
@@ -15,7 +15,7 @@ nav ol li {
 a {
   color: #8f2440;
   text-decoration: none;
-  font-family: 'PT Sans';
+  font-family: "PT Sans";
   font-weight: bold;
 }
 
@@ -25,7 +25,7 @@ a:hover {
 }
 
 .sansserif {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 .blacklinks {
@@ -34,7 +34,7 @@ a:hover {
 
 h1 {
   color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
 }
 
 h2 {
@@ -107,5 +107,5 @@ header ol {
 
 footer a {
   font-weight: normal;
-  font-family: 'PT Serif';
+  font-family: "PT Serif";
 }
