@@ -4,9 +4,19 @@ html {
   line-height: normal;
 }
 
+body {
+  font-family: 'PT Serif';
+}
+
+nav ol li {
+  list-style-type: none;
+}
+
 a {
-  color: #8f2440
-  text;decoration: none;
+  color: #8f2440;
+  text-decoration: none;
+  font-family: 'PT Sans';
+  font-weight: bold;
 }
 
 a:hover {
@@ -48,7 +58,7 @@ blockquote cite {
 }
 
 img {
-  width: 50%
+  width: 100%;
 }
 
 .none {
@@ -62,7 +72,7 @@ img {
 }
 
 .bullets {
-  list-style-type: circles;
+  list-style-type: circle;
 }
 
 dt {
@@ -71,6 +81,32 @@ dt {
 
 figcaption {
   font-style: italic;
-  font-size :1.125rem;
+  font-size: 1rem;
   text-align: center;
+}
+
+.grow {
+  font-weight: bold;
+  font-size: 1.125rem;
+}
+
+article > p {
+  font-size: 1rem;
+}
+
+.correction {
+  font-weight: normal;
+}
+
+header ol {
+  list-style-type: lower-greek;
+}
+
+.srb {
+  font-style: italic;
+}
+
+footer a {
+  font-weight: normal;
+  font-family: 'PT Serif';
 }
