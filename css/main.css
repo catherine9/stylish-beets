@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Serif", serif;
+  font-family: 'PT Sans', sans-serif;
   line-height: normal;
 }
 
@@ -15,7 +15,7 @@ a:hover {
 }
 
 .sansserif {
-  font-family: "PT Sans", sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .blacklinks {
@@ -24,7 +24,7 @@ a:hover {
 
 h1 {
   color: #3f1622;
-  font-family: "PT Sans", sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 h2 {
