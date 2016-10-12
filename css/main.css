@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Sans", sans-serif;
+  font-size: 1rem;
   line-height: normal;
 }
 
@@ -9,7 +10,9 @@ body {
 }
 
 nav ol li {
+  font-size: 1.125rem;
   list-style-type: none;
+  padding-bottom: 0.25rem;
 }
 
 a {
